@@ -33,16 +33,16 @@ nav a:hover {
 #home {
     background-color: #17202a;
     color: white;
-    text-align: center;
 
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 10%;
+    padding-right: 10%;
 
     border-bottom: 5px solid #20aaa9;
-}
 
+    text-align: left;
+}
 .greeting {
     color: #20aaa9;
     font-size: 22px;
